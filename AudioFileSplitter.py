@@ -1,4 +1,4 @@
-# Audio file splitter script by Harry Upton
+# Audio file silence splitter script by Harry Upton
 
 from pydub import AudioSegment, silence
 import argparse
