@@ -1,4 +1,4 @@
-# audio-file-splitter
+# audio-file-silence-splitter
 A python script that splits audio files on silence.
 
 To use, run: python AudioFileSplitter.py filename format / AudioFileSplitter.py file.mp3 mp3
